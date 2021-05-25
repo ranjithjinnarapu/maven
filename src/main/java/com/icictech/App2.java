@@ -1,7 +1,7 @@
 package com.icictech;
 
 /**
- * Hello world!
+ * Hello world! new
  *
  */
 public class App2 
